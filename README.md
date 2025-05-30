@@ -1,17 +1,17 @@
-#Simulation de l'effet Ramsauer–Townsend (Physique Moderne – CY Tech)
+# Simulation de l'effet Ramsauer–Townsend (Physique Moderne – CY Tech)
 
 **Projet numérique – PréIng 2 MI1G – CY Tech 2024–2025**  
 **Encadrant : P. Akridas**
 
 ---
 
-##Objectif du projet
+## Objectif du projet
 
 Ce projet a pour but de simuler numériquement la **diffusion quantique d’un paquet d’onde sur un puits de potentiel**, afin d’expliquer **l’effet Ramsauer–Townsend**, un phénomène où la probabilité de diffusion d’un électron par un atome de gaz noble **s’annule pour certaines énergies**.
 
 ---
 
-##Objectifs pédagogiques
+## Objectifs pédagogiques
 
 - Implémenter un **solveur numérique** de l'équation de Schrödinger dépendante du temps.
 - Étudier la **transmission d’un paquet d’onde** à travers un potentiel en 1D.
@@ -21,7 +21,7 @@ Ce projet a pour but de simuler numériquement la **diffusion quantique d’un p
 
 ---
 
-##Contenu du dépôt
+## Contenu du dépôt
 
 | Fichier                      | Description                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
@@ -32,19 +32,19 @@ Ce projet a pour but de simuler numériquement la **diffusion quantique d’un p
 
 ---
 
-##Dépendances
+## Dépendances
 
 - Python ≥ 3.6  
 - `numpy`  
 - `matplotlib`  
 
-###Installation rapide et exécution
+### Installation rapide et exécution
 
 pip install numpy matplotlib
 
 python Sch1d_solution_1.py
 
-###Auteurs
+### Auteurs
 
 Projet réalisé par :
 
