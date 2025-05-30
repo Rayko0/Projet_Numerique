@@ -46,7 +46,6 @@ Ce projet a pour but de simuler numériquement la **diffusion quantique d’un p
 
 ### Auteurs
 
-Projet réalisé par :
 
 Nino AUDREN
 
