@@ -35,14 +35,14 @@ Ce projet a pour but de simuler numériquement la **diffusion quantique d’un p
 ## Dépendances
 
 - Python ≥ 3.6  
-- `numpy`  
+- `numpy`
 - `matplotlib`  
 
 ### Installation rapide et exécution
 
-pip install numpy matplotlib
+`pip install numpy matplotlib`
 
-python Sch1d_solution_1.py
+`python Sch1d_solution_1.py`
 
 ### Auteurs
 
