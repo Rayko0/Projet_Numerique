@@ -26,8 +26,8 @@ Ce projet a pour but de simuler numériquement la **diffusion quantique d’un p
 | Fichier                      | Description                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
 | `Sch1d_solution_1.py`       | Script Python principal : simulation de la propagation d’un paquet d’onde dans un potentiel. |
-| `Projet-Sujet_2024-2025.pdf`| Enoncé officiel du projet fourni par l’enseignant.                          |
 | `etat stat.py`                 | Script complémentaire pour la recherche des états stationnaires                                      |
+| `Projet-Sujet_2024-2025.pdf`| Enoncé officiel du projet fourni par l’enseignant.                          |
 | `README.md`                 | (ce fichier) Documentation du projet.                                      |
 
 ---
