@@ -27,8 +27,8 @@ Ce projet a pour but de simuler numériquement la **diffusion quantique d’un p
 |-----------------------------|-----------------------------------------------------------------------------|
 | `Sch1d_solution_1.py`       | Script Python principal : simulation de la propagation d’un paquet d’onde dans un potentiel. |
 | `etat stat.py`                 | Script complémentaire pour la recherche des états stationnaires                                      |
-| `Projet-Sujet_2024-2025_Physique-moderne_P2S2_PAkridas.pdf`| Enoncé officiel du projet fourni par l’enseignant.                          |
 | `tts1.py`                 | Courbe de transmission vs énergie (Effet Ramsauer-Townsend)                                      |
+| `Projet-Sujet_2024-2025_Physique-moderne_P2S2_PAkridas.pdf`| Enoncé officiel du projet fourni par l’enseignant.                          |
 | `README.md`                 | (ce fichier) Documentation du projet.                                      |
 
 ---
