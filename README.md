@@ -30,6 +30,7 @@ Ce projet a pour but de simuler numériquement la **diffusion quantique d’un p
 | `tts1.py`                 | Courbe de transmission vs énergie (Effet Ramsauer-Townsend)                                      |
 | `Projet-Sujet_2024-2025_Physique-moderne_P2S2_PAkridas.pdf`| Enoncé officiel du projet fourni par l’enseignant.                          |
 | `README.md`                 | (ce fichier) Documentation du projet.                                      |
+| `requierements.txt`                 | Pour faciliter l'installation                                      |
 
 ---
 
