@@ -38,7 +38,8 @@ Ce projet a pour but de simuler numériquement la **diffusion quantique d’un p
 
 - Python ≥ 3.6  
 - `numpy`
-- `matplotlib`  
+- `matplotlib`
+- `pandas`
 
 ### Installation rapide et exécution
 
