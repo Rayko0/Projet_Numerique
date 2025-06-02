@@ -88,3 +88,7 @@ plt.show()
 # Affichage optionnel du temps de calcul
 # end_time = time.time()
 # print(f"Temps d'exécution : {end_time - start_time:.2f} s")
+
+import pandas as pd
+df = pd.DataFrame(final_densite)
+df.to_csv("outputs/data/densite.csv", index=False)
