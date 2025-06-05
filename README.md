@@ -47,7 +47,9 @@ Dans \Projet_Numerique-main
 
 `pip freeze > requirements.txt`
 
-`python Sch1d_solution_1.py`
+Dans \Projet_Numerique-main\src
+
+`python [nom_du_fichier].py`
 
 ### Auteurs
 
