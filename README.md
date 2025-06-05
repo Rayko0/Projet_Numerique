@@ -23,14 +23,16 @@ Ce projet a pour but de simuler numériquement la **diffusion quantique d’un p
 
 ## Contenu du dépôt
 
-| Dossier / Fichier                                                    | Description                                                                                           |
-|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| `Sch1d_solution_1.py`                                                | Script Python principal : simulation de la propagation d’un paquet d’onde dans un potentiel.          |
-| `etat stat.py`                                                       | Script complémentaire pour la recherche des états stationnaires.                                      |
-| `tts1.py`                                                            | Script pour générer la courbe de transmission vs énergie (Effet Ramsauer–Townsend).                   |
-| `Projet-Sujet_2024-2025_Physique-moderne_P2S2_PAkridas.pdf`          | Énoncé officiel du projet fourni par l’enseignant.                                                    |
-| `README.md`                                                          | (ce fichier) Documentation complète du projet.                                                        |
-| `requierements.txt`                                                  | Fichier listant les dépendances nécessaires à l’exécution (numpy, matplotlib…).                       |
+| Fichier/Dossier                                               | Description                                                                                           |
+|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| `src/propagation_paquet_onde.py`                              | Simulation principale : propagation d’un paquet d’onde dans un puits de potentiel (animation matplotlib). |
+| `src/etat_stat_énergie.py`                                    | Calcul des fonctions d’onde stationnaires et de leurs énergies propres dans le puits.                 |
+| `src/etat_stat_densité.py`                                    | Visualisation de la densité de probabilité associée aux états stationnaires.                          |
+| `src/courbe_transmission.py`                                  | Génère la courbe de transmission \( T(E) \) en fonction de l’énergie incidente (Effet Ramsauer).      |
+| `Projet-Sujet_2024-2025_Physique-moderne_P2S2_PAkridas.pdf`   | Énoncé officiel du projet fourni par l’enseignant.                                                    |
+| `README.md`                                                   | (ce fichier) Documentation complète du projet.                                                        |
+| `requirements.txt`                                            | Fichier listant les dépendances nécessaires (numpy, matplotlib…).                                     |
+
 
 ---
 
