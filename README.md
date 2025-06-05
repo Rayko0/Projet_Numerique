@@ -48,7 +48,7 @@ Ce projet a pour but de simuler numériquement la **diffusion quantique d’un p
 
 Dans \Projet_Numerique-main
 
-`pip freeze > requirements.txt`
+`python -m pip install -r requirements.txt`
 
 Dans \Projet_Numerique-main\src
 
