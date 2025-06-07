@@ -34,6 +34,7 @@ Ce projet a pour but de simuler numériquement la **diffusion quantique d’un p
 | `Projet-Sujet_2024-2025_Physique-moderne_P2S2_PAkridas.pdf`    | Énoncé officiel du projet fourni par l’enseignant.                                                        |
 | `README.md`                                                    | (ce fichier) Documentation complète du projet.                                                            |
 | `requirements.txt`                                             | Dépendances nécessaires à l’exécution (numpy, matplotlib…).                                               |
+| `résolution_analytique.pdf`                                             | Résolution écrite en Latex                                               |
 
 ---
 
